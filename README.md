@@ -6,7 +6,7 @@
 
 ### MERN Full-Stack Developer • SaaS Builder • REST API Developer
 
-<img src="./assets/coding.gif" width="520" alt="Developer coding">
+<img src="./coding.gif" width="520" alt="Developer coding">
 
 </div>
 
@@ -151,9 +151,9 @@ An **All-in-One Online Tools SaaS Platform** for everyday digital, developer, fi
 
 <div align="center">
 
-<img src="./assets/linkedin.png" width="70" alt="LinkedIn">
+<img src="./linkedin.png" width="70" alt="LinkedIn">
 &nbsp;&nbsp;&nbsp;
-<img src="./assets/github.svg" width="70" alt="GitHub">
+<img src="./github.svg" width="70" alt="GitHub">
 
 </div>
 
