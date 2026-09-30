@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/wave.gif" width="120" alt="Waving hand">
+<img src="./wave.gif" width="120" alt="Waving hand">
 
 # 👨🏻‍💻 Chandra Prakash Singh
 
